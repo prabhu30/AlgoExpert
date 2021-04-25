@@ -7,7 +7,7 @@
 - Input Format :
   Array and target sum are passed as arguments to the function
   
-- Output Format :
+- Output Format : <br>
   The function should return the earliest possible subarray satisying condition
   
 - Input 1 :
