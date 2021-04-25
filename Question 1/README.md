@@ -15,3 +15,8 @@
   
 # Output 1 : <br>
   [11,-1]
+
+# Solutions (Executable) :
+- Approach 1 - [Click Here](https://onecompiler.com/python/3wvmkwnjp)
+- Approach 2 - [Click Here](https://onecompiler.com/python/3wvmnm3hf)
+- Approach 3 - [Click Here](https://onecompiler.com/python/3wvmnpc9z)
